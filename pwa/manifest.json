@@ -1,0 +1,22 @@
+{
+    "name": "ServeSpeak Translator",
+    "short_name": "ServeSpeak",
+    "description": "Real-time speech translator for the service industry.",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#187bcd",
+    "icons": [
+        {
+            "src": "icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
