@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5c92b15f-4974-43a2-bd1a-a53a284996e3/deploy-status)](https://app.netlify.com/projects/servespeak-web/deploys/?branch=dev)
+
+
 # ServeSpeak-Web
 
 **ServeSpeak-Web** is a Progressive Web Application (PWA) designed to facilitate real-time, bi-directional speech translation, primarily aimed at service and hospitality staff communicating with international guests.
